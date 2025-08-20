@@ -1,2 +1,3 @@
-# KFC
-This is a simple KFC website 
+# Hello
+## Hello
+### Hello
